@@ -3,7 +3,7 @@ description: Flutter plugin that downloads images on the Internet and saves them
 version: 0.19.1
 authors:
   - koji ishii <ko2ic.dev@gmail.com>
-homepage: https://github.com/ko2ic/image_downloader
+homepage: https://github.com/jus7uice/image_downloader
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
@@ -18,7 +18,7 @@ dependencies:
 # The following section is specific to Flutter.
 flutter:
   plugin:
-    androidPackage: com.ko2ic.imagedownloader
+    androidPackage: com.jus7uice.imagedownloader
     pluginClass: ImageDownloaderPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
